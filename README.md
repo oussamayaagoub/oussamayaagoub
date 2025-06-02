@@ -31,15 +31,13 @@ En el backend, diseño APIs RESTful con Spring Boot siguiendo principios SOLID y
 
 ---
 
-## 💡 Sobre Mí
 
-Desarrollador Full-Stack con más de X años de experiencia construyendo aplicaciones empresariales. Mi enfoque combina:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussamayaagoub/oussamayaagoub/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oussamayaagoub/oussamayaagoub/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oussamayaagoub/oussamayaagoub/output/pacman-contribution-graph.svg">
+</picture>
 
-- 🏗️ Arquitectura frontend escalable con Angular
-- ⚙️ Backend eficiente con Spring Boot y Java
-- 🧩 Patrones de diseño y principios SOLID
-- 🚀 Optimización de rendimiento web
-- 🔐 Seguridad aplicativa (OAuth2, JWT)
 
 En mi canal de YouTube [@org.yaagoub](https://youtube.com/@org.yaagoub) comparto conocimientos sobre desarrollo web, arquitectura de software y mejores prácticas.
 
