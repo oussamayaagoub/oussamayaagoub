@@ -69,9 +69,9 @@ Developed a reusable component library featuring:
 
 ### 📈 GitHub Stats
 
-![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamayaagoub&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamayaagoub&layout=compact&theme=radical)](https://github.com/oussamayaagoub/github-readme-stats)
 
 ---
 
@@ -83,5 +83,5 @@ Developed a reusable component library featuring:
 - 📱 Phone: +34 602 64 54 98
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views"/>
+   <img src="https://komarev.com/ghpvc/?username=oussamayaagoub&style=flat-square&color=blue" alt="Profile views"/>
 </p>
