@@ -1,87 +1,130 @@
 # 🚀 Oussama Yaagoub
 
-**`Full-Stack Software Developer (Angular Architect / Microservices Specialist)`**
+**`Full-stack Software Developer | Angular Architect | Cloud Enthusiast`**
 
-I'm a passionate full-stack developer specializing in building scalable web applications with Angular and Spring Boot microservices. With expertise spanning from frontend architecture to cloud-native backend systems, I craft robust digital solutions that solve real-world problems. Currently contributing to enterprise-level projects at SATEC while continuously expanding my knowledge in cutting-edge technologies.
+📍 Toledo, Spain | 🌐 [yaagoub.org](https://yaagoub.org)  
+📧 oyaagoub5@gmail.com | 📞 +34 602 645 498  
+
+I'm a passionate full-stack developer specializing in building scalable web applications with Angular and Spring Boot. With expertise in microservices architecture and cloud-native development, I bridge the gap between innovative frontend experiences and robust backend systems.
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/yourprofile">
-      <img alt="linkedin followers" title="Connect with me" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-   <a href="https://yaagoub.org">
-      <img alt="portfolio" title="Check my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=globe&logoColor=white"/></a> 
-   <a href="https://github.com/yourusername?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yourusername?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yourusername?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img alt="LinkedIn" title="Connect with me" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/yourusername">
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/yourusername?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://yaagoub.org">
+    <img alt="Portfolio" title="Visit my portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-#### Frontend Architecture
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="RxJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactivex/reactivex-original.svg"/>
-<img align="left" alt="NgRx" width="30px" style="padding-right:10px;" src="https://ngrx.io/assets/images/badge.svg"/>
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+### **Frontend Development**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-999999?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Backend Systems
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+### **Backend Development**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### DevOps & Databases
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<br />
-<br />
-
----
-
-### 🏆 Featured Projects
-
-#### [yaagoub.org](https://yaagoub.org) - Interactive Portfolio Platform
-**Angular | TypeScript | Canvas API | Firebase**  
-A sophisticated interactive portfolio featuring a custom component library and virtual whiteboard. Implemented complex canvas operations, OAuth2 integration, and real-time database functionality.
-
-#### Enterprise Microservices Architecture
-**Spring Boot | Angular | Keycloak | Kubernetes**  
-Designed and implemented a distributed microservices system with REST APIs, JWT authentication, and CI/CD pipelines. Features include:
-- Service discovery with Eureka
-- API Gateway with Spring Cloud
-- Automated testing with Mockito/JUnit
-- Monitoring with ELK stack
-
-#### Angular Component Library
-**NX Workspace | Web Components | SVG**  
-Developed a reusable component library featuring:
-- Dynamic SVG icon system
-- Shared services (HTTP, auth, storage)
-- React-Angular interoperability
-- Advanced state management with NgRx
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 💼 Professional Experience
 
-![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamayaagoub&show_icons=true&theme=radical)
+### **Software Developer** @ [SATEC](https://www.satec.es) | Toledo
+`Jul 2024 - Present`  
+- Design and implement microservices architecture with REST APIs using Spring Boot
+- Develop web and mobile applications with Angular and Ionic frameworks
+- Implement authentication with Keycloak and OAuth2/JWT
+- Configure CI/CD pipelines and Kubernetes deployments
+- Conduct automated testing with Mockito and JUnit
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamayaagoub&layout=compact&theme=radical)](https://github.com/oussamayaagoub/github-readme-stats)
+### **Intern Developer** @ [SESCAM](https://sescam.castillalamancha.es) | Toledo
+`Apr 2024 - Jul 2024`  
+- Developed web applications using Java/Spring and Angular
+- Practiced Agile Scrum methodology with daily standups
+- Used Git for version control in collaborative environments
 
 ---
 
-### 📫 Let's Connect
+## 🎓 Education & Certifications
 
-- 🔗 Portfolio: [yaagoub.org](https://yaagoub.org)
-- 📧 Email: oyaagoub5@gmail.com
-- 💼 LinkedIn: [Oussama Yaagoub](https://linkedin.com/in/yourprofile)
-- 📱 Phone: +34 602 64 54 98
+- **Higher Degree in Web Application Development**  
+  IES Juan Bosco, Alcázar de San Juan | `Jul 2024`
+
+- **Professional Certifications**  
+  ![Scrum](https://img.shields.io/badge/Scrum_Foundation-CertiProf-blue)
+  ![Angular](https://img.shields.io/badge/Angular_Pro-Udemy-red)
+  ![GitHub](https://img.shields.io/badge/GitHub_Professional-GitHub-black)
+  ![AI](https://img.shields.io/badge/AI_Fundamentals-LinkedIn-blue)
+
+---
+
+## 🏆 Projects
+
+### **Microservices Architecture (Spring Boot + Angular)**
+- Designed distributed systems using microservices with Spring Boot (REST API, Security, Data JPA)
+- Developed reactive UIs with Angular (RxJs, NgRx)
+- Implemented OAuth2/JWT authentication with Keycloak
+- Configured CI/CD pipelines with GitLab CI and Kubernetes
+
+### **Angular Library Platform**
+- Created advanced Angular platform using workspace architecture
+- Developed shared libraries for services, auth, and SVG icons
+- Integrated Firebase services (Auth, Firestore, Hosting)
+- Built visual diagramming module with HTML5 Canvas
+
+### **Interactive Web Application (Personal Portfolio)**
+- Designed and developed [yaagoub.org](https://yaagoub.org) from scratch
+- Implemented virtual whiteboard with Canvas API
+- Created reusable component library
+- Optimized performance with lazy loading
+
+---
+
+## 📈 GitHub Stats
+
+![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+
+---
+
+## 🎥 Latest YouTube Content
+
+Coming soon! Stay tuned for tech tutorials and development insights.
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://youtube.com)
+
+---
+
+## 📫 Let's Connect!
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=oussamayaagoub&style=flat-square&color=blue" alt="Profile views"/>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:oyaagoub5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yaagoub.org">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
