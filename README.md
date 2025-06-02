@@ -27,6 +27,9 @@ En el backend, diseño APIs RESTful con Spring Boot siguiendo principios SOLID y
   <a href="https://www.youtube.com/@org.yaagoub" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
+  <a href="https://yaagoub.org" target="_blank">
+    <img src="https://yaagoub.org/icon/yaagoub-icon.png" alt="Portfolio"  width="52" height="52" />
+  </a>
 </div>
 
 ---
