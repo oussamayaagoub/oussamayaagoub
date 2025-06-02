@@ -1,21 +1,33 @@
 # 🚀 Oussama Yaagoub
 
-**`Desarrollador Full-Stack especializado en arquitectura Angular`**
+**`Arquitecto Frontend Angular | Desarrollador Full-Stack`**
 
 📍 Toledo, España | 🌐 [yaagoub.org](https://yaagoub.org)  
 
-Apasionado desarrollador con experiencia en la creación de aplicaciones web escalables y mantenibles. Especializado en arquitecturas frontend con Angular, implementando soluciones robustas con TypeScript, RxJS y NgRx. En el backend, dominio de Spring Boot y microservicios, con enfoque en calidad de código y buenas prácticas.
+Transformo ideas en aplicaciones web de alto rendimiento con más de 6 años de experiencia en desarrollo. Mi pasión es crear arquitecturas frontend sólidas con Angular que sean:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yaagoub">
-    <img alt="LinkedIn" title="Conéctate conmigo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/oussamayaagoub">
-    <img alt="GitHub followers" title="Sígueme en GitHub" src="https://img.shields.io/github/followers/oussamayaagoub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://yaagoub.org">
-    <img alt="Portfolio" title="Visita mi portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://youtube.com/@org.yaagoub">
-    <img alt="YouTube" title="Mis videos en YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+✔ **Escalables** - Diseño modular con microfrontends y librerías compartidas  
+✔ **Mantenibles** - Código limpio, bien estructurado y documentado  
+✔ **Eficientes** - Optimización de bundles y lazy loading  
+✔ **Reactivas** - Gestión avanzada de estado con RxJS y NgRx  
+
+En el backend, diseño APIs RESTful con Spring Boot siguiendo principios SOLID y arquitectura hexagonal. Mi enfoque combina:
+
+⚡ **Calidad de código** - Testing automatizado (JUnit, Mockito)  
+⚡ **Seguridad robusta** - Implementación de OAuth2/JWT  
+⚡ **Despliegues ágiles** - CI/CD con Docker y Kubernetes  
+
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/yaagoub/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@org.yaagoub" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 ---
 
