@@ -31,6 +31,9 @@ En el backend, diseño APIs RESTful con Spring Boot siguiendo principios SOLID y
 
 ---
 
+## 🛠️ Stack Tecnológico Principal
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -128,6 +131,12 @@ En el backend, diseño APIs RESTful con Spring Boot siguiendo principios SOLID y
 - Integración con APIs RESTful (Spring Boot)
 - Participación en metodologías ágiles (Scrum)
 
+## 📊 Estadísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamayaagoub&show_icons=true&theme=radical&locale=es" alt="Estadísticas GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamayaagoub&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados"/>
+</div>
 
 En mi canal de YouTube [@org.yaagoub](https://youtube.com/@org.yaagoub) comparto conocimientos sobre desarrollo web, arquitectura de software y mejores prácticas.
 
