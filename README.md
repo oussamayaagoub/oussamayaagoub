@@ -1,6 +1,6 @@
 # 🚀 Oussama Yaagoub
 
-**`Arquitecto Frontend Angular | Desarrollador Full-Stack`**
+**`Full-Stack Software Developer with a focus on Angular architecture.`**
 
 📍 Toledo, España | 🌐 [yaagoub.org](https://yaagoub.org)  
 
